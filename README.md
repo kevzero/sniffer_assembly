@@ -1,4 +1,4 @@
-# 🛠 Ethical ARP Sniffer in Assembly (NASM)
+# 🛠 ARP Sniffer in Assembly (NASM)
 
 This project contains a basic ARP packet sniffer written in x86 Assembly (NASM syntax), designed for educational and ethical hacking purposes. It detects ARP traffic on the local network and prints the source and destination MAC addresses.
 
